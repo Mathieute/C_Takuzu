@@ -1,2 +1,2 @@
 # C_Takuzu
-Projet d'Algo de S1 (DUT) : Programmation du jeu Takuzu lançable dans la console
+Pour accéder directement à l'exécutable du projet, téléchargez et lancez le fichier PARTIE_FINALE.exe
